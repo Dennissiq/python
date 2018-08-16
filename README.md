@@ -1,4 +1,3 @@
-#Repositório de exercícios python LingProg
+# Repositório de exercícios python LingProg
 
-## Dennis Siqueira
-## 81621468
+## Dennis Siqueira - 81621468
